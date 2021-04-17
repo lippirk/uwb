@@ -1,0 +1,4 @@
+importlib-resources==5.1.2
+nltk==3.6.1
+psaw==0.1.0
+tinydb==4.4.0
