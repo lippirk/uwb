@@ -126,7 +126,7 @@ I have seen {total_words_seen} words in total, and {n} _unique_ words. You can s
         words_str = ", ".join(words[:-1]) + f" and {words[-1]}"
         comment = f"""Beeby Boopy
 
-I'm reddit for words, and you mentioned {num_of_new_words} words I haven't seen before: {words_str}!
+I'm searching reddit for words, and you mentioned {num_of_new_words} words I haven't seen before: {words_str}!
 
 I have seen {total_words_seen} words in total, and {n} _unique_ words. You can see my code [here](https://github.com/lippirk/uwb)."""
 
